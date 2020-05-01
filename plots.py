@@ -4,7 +4,10 @@ Created on Sat Sep  8 09:38:28 2018
 
 @author: welcome
 """
-
+import random 
+import sys
+import os
+import cv2
 import matplotlib.pyplot as plt
 
 # x axis values 
