@@ -8,7 +8,11 @@ ANOVA is used to compare the means of three or more samples.
 
 1.	One way ANOVA (It contains one independent variable)
 2.	Two way ANOVA (It contains two independent variable)
-
+3.dfgsdfasfadfsdx
+import math
+import random
+import cv2
+s
 
 
 One way anova 
