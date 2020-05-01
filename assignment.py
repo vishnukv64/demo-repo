@@ -167,3 +167,17 @@ Bitwise NOT	      ~p1             p1.__invert__()
 3. Handling exceptions
 4. defining cleanup actions
 5. Logical excecptions
+askhdnsdlamscjbncas
+fas
+fasf
+a
+selfas
+fagsbv
+cx
+x
+cxc
+bx
+cx
+cb
+xcb
+cx
