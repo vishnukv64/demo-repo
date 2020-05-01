@@ -11,7 +11,8 @@ import matplotlib.pyplot as plt
 x = [1,2,3,4,5,6,7,8] 
 # corresponding y axis values 
 y = [2,4,1,5,8,9,1,5] 
-  
+
+z= [0,2,1,5,4,5,5,5,5,4,45,5,5]
 # plotting the points  
 plt.plot(x, y) 
   
